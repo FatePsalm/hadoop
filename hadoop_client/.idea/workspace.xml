@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f45069b2-6d96-4121-9186-687100184494" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/solace/hadoop/hdfs/HDFSClient.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="112">
+              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>8020</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>9000</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/resources/log4j.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/com/solace/hadoop/HDFSClient.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/solace/hadoop/hdfs/IOToHFDFS.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/solace/hadoop/hdfs/AutoRack.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/solace/hadoop/hdfs/HDFSClient.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="width" value="1945" />
+    <option name="height" value="1105" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="hadoop_client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hadoop_client" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hadoop_client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hadoop_client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hadoop_client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hadoop_client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hadoop_client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hadoop_client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hadoop_client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hadoop_client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="hadoop" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hadoop_client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hadoop_client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hadoop_client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hadoop_client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/solace/hadoop/hdfs" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.47356322" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.solace.hadoop" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\git\hadoop\hadoop_client\src\main\java\com\solace\hadoop\hdfs" />
+      <recent name="D:\git\hadoop\hadoop_client" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.HDFSClient.readfolderAtHDFS">
+    <configuration name="HDFSClient.deleteAtHDFS" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hadoop_client" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.solace.hadoop.hdfs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.solace.hadoop.hdfs" />
+      <option name="MAIN_CLASS_NAME" value="com.solace.hadoop.hdfs.HDFSClient" />
+      <option name="METHOD_NAME" value="deleteAtHDFS" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HDFSClient.getFileFromHDFS" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hadoop_client" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.solace.hadoop.hdfs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.solace.hadoop.hdfs" />
+      <option name="MAIN_CLASS_NAME" value="com.solace.hadoop.hdfs.HDFSClient" />
+      <option name="METHOD_NAME" value="getFileFromHDFS" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HDFSClient.mkdirAtHDFS" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hadoop_client" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.solace.hadoop.hdfs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.solace.hadoop.hdfs" />
+      <option name="MAIN_CLASS_NAME" value="com.solace.hadoop.hdfs.HDFSClient" />
+      <option name="METHOD_NAME" value="mkdirAtHDFS" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HDFSClient.readFileAtHDFS" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hadoop_client" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.solace.hadoop.hdfs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.solace.hadoop.hdfs" />
+      <option name="MAIN_CLASS_NAME" value="com.solace.hadoop.hdfs.HDFSClient" />
+      <option name="METHOD_NAME" value="readFileAtHDFS" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HDFSClient.readfolderAtHDFS" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hadoop_client" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.solace.hadoop.hdfs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.solace.hadoop.hdfs" />
+      <option name="MAIN_CLASS_NAME" value="com.solace.hadoop.hdfs.HDFSClient" />
+      <option name="METHOD_NAME" value="readfolderAtHDFS" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.HDFSClient.getFileFromHDFS" />
+      <item itemvalue="JUnit.HDFSClient.mkdirAtHDFS" />
+      <item itemvalue="JUnit.HDFSClient.deleteAtHDFS" />
+      <item itemvalue="JUnit.HDFSClient.readFileAtHDFS" />
+      <item itemvalue="JUnit.HDFSClient.readfolderAtHDFS" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.HDFSClient.readfolderAtHDFS" />
+        <item itemvalue="JUnit.HDFSClient.readFileAtHDFS" />
+        <item itemvalue="JUnit.HDFSClient.deleteAtHDFS" />
+        <item itemvalue="JUnit.HDFSClient.mkdirAtHDFS" />
+        <item itemvalue="JUnit.HDFSClient.getFileFromHDFS" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f45069b2-6d96-4121-9186-687100184494" name="Default Changelist" comment="" />
+      <created>1558679233970</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1558679233970</updated>
+      <workItem from="1558679236385" duration="1405000" />
+      <workItem from="1558680861305" duration="1744000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="HDFSClient_updateFileAdmin - 2019.05.24 at 14h 57m 58s.xml">
+      <configuration name="HDFSClient.updateFileAdmin" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HDFSClient_updateFile_(1) - 2019.05.24 at 15h 03m 08s.xml">
+      <configuration name="HDFSClient.updateFile (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HDFSClient_getFileSystem - 2019.05.24 at 15h 05m 01s.xml">
+      <configuration name="HDFSClient.getFileSystem" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HDFSClient_getFileFromHDFS - 2019.05.24 at 15h 14m 51s.xml">
+      <configuration name="HDFSClient.getFileFromHDFS" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HDFSClient_mkdirAtHDFS - 2019.05.24 at 15h 17m 09s.xml">
+      <configuration name="HDFSClient.mkdirAtHDFS" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HDFSClient_mkdirAtHDFS - 2019.05.24 at 15h 17m 27s.xml">
+      <configuration name="HDFSClient.mkdirAtHDFS" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HDFSClient_deleteAtHDFS - 2019.05.24 at 15h 18m 18s.xml">
+      <configuration name="HDFSClient.deleteAtHDFS" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HDFSClient_deleteAtHDFS - 2019.05.24 at 15h 18m 24s.xml">
+      <configuration name="HDFSClient.deleteAtHDFS" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HDFSClient_readFileAtHDFS - 2019.05.24 at 15h 19m 10s.xml">
+      <configuration name="HDFSClient.readFileAtHDFS" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HDFSClient_readfolderAtHDFS - 2019.05.24 at 15h 19m 30s.xml">
+      <configuration name="HDFSClient.readfolderAtHDFS" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3149000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25536194" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32956153" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39886847" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32956153" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="5" column="34" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/solace/hadoop/hdfs/HDFSClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="24" column="34" lean-forward="true" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/solace/hadoop/hdfs/Consistent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/solace/hadoop/hdfs/IOToHFDFS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2759">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/solace/hadoop/hdfs/AutoRack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="8" column="36" lean-forward="true" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/hadoop-common-2.7.2.jar!/org/apache/hadoop/net/DNSToSwitchMapping.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="13" column="28" lean-forward="true" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/solace/hadoop/hdfs/HDFSClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>hadoop_client</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.47356322" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
