@@ -15,6 +15,9 @@ import org.apache.hadoop.mapreduce.lib.output.FileOutputFormat;
  */
 public class WordcountDriver {
 	public static void main(String[] args) throws Exception {
+		System.out.println(System.getenv("HADOOP_HOME"));
+		System.out.println(args[0]);
+		System.out.println(args[1]);
 		// 1 获取配置信息，或者job对象实例
 		Configuration configuration = new Configuration();
 		// 8 配置提交到yarn上运行,windows和Linux变量不一致
