@@ -5,7 +5,7 @@ import org.apache.hadoop.mapreduce.Reducer;
 
 import java.io.IOException;
 
-public class FlowReducer extends Reducer<Text, FlowBean, Text, FlowBean> {
+public class FlowReducer extends Reducer<Text, flowcount.FlowBean, Text, flowcount.FlowBean> {
 
 	@Override
 	protected void reduce(Text key, Iterable<FlowBean> values, Context context)
